@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\bae87ed0b2f9aa045f180db663854a98\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\ba674021d432606430ec8c29ee6c4dfe\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\f039d6d92a56c3e98b185e95218738a5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\0ce34e6e51cf3b8282e691e8b192e242\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\31cd2dd7dcb50d1e64348350e32853a8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\1397d45d002ed387665f1d9d462259a8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\28a2806074f4f804f92fa727ae51616d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\e48106b90baf20706966a9ff83156645\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\dd843b4bd5ac066fe1857a253f58ed1c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\f73f3efeb3e520946053da15b4281030\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\ea62434d23ac360ad0c8297a2d75b135\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\d432020aa31511139cd9750da849be33\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\6abbba0a5f8746b13b1f275acdae3100\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\cdb61d0253897436a9256c4f4f93b961\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\76819288dde32844e42a2b32cd16692c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\9afab47609fbb18679d9e341310727ec\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\f4feae7e3fc94ddfce57eff5c6311971\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\f60c627a9681ea8f594542a2ea11ec80\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\7bea785e175771812ee1f77364f1d8b7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\ea1bca5a4fa0c9ae06fa14f3c57393d7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\d76676f6315985b38433a3c13aa03735\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\c9460afd9cc469a4ad3d105b6319d166\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\ecd80a4184b09dd79bf8790ff4c12cda\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\7ac359726b172a5223551cb5832ddeab\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\df95bbc579c0da55fef9ff153843bb40\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\ee6856f8a9348d77ee6796c9ef1cab53\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\eb72fdfa68e1f0c4e1d18307cbcd9b43\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\ba674021d432606430ec8c29ee6c4dfe\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\ba674021d432606430ec8c29ee6c4dfe\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\9afab47609fbb18679d9e341310727ec\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\9afab47609fbb18679d9e341310727ec\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\f4feae7e3fc94ddfce57eff5c6311971\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\f4feae7e3fc94ddfce57eff5c6311971\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\9afab47609fbb18679d9e341310727ec\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.spacetraders190502.MainActivity
+ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\bae87ed0b2f9aa045f180db663854a98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\bae87ed0b2f9aa045f180db663854a98\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\ba674021d432606430ec8c29ee6c4dfe\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\ba674021d432606430ec8c29ee6c4dfe\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\f039d6d92a56c3e98b185e95218738a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\f039d6d92a56c3e98b185e95218738a5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\0ce34e6e51cf3b8282e691e8b192e242\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\0ce34e6e51cf3b8282e691e8b192e242\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\31cd2dd7dcb50d1e64348350e32853a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\31cd2dd7dcb50d1e64348350e32853a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\1397d45d002ed387665f1d9d462259a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\1397d45d002ed387665f1d9d462259a8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\28a2806074f4f804f92fa727ae51616d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\28a2806074f4f804f92fa727ae51616d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\e48106b90baf20706966a9ff83156645\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\e48106b90baf20706966a9ff83156645\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\dd843b4bd5ac066fe1857a253f58ed1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\dd843b4bd5ac066fe1857a253f58ed1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\f73f3efeb3e520946053da15b4281030\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\f73f3efeb3e520946053da15b4281030\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\ea62434d23ac360ad0c8297a2d75b135\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\ea62434d23ac360ad0c8297a2d75b135\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\d432020aa31511139cd9750da849be33\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\d432020aa31511139cd9750da849be33\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\6abbba0a5f8746b13b1f275acdae3100\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\6abbba0a5f8746b13b1f275acdae3100\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\cdb61d0253897436a9256c4f4f93b961\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\cdb61d0253897436a9256c4f4f93b961\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\76819288dde32844e42a2b32cd16692c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\76819288dde32844e42a2b32cd16692c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\9afab47609fbb18679d9e341310727ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\9afab47609fbb18679d9e341310727ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\f4feae7e3fc94ddfce57eff5c6311971\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\f4feae7e3fc94ddfce57eff5c6311971\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\f60c627a9681ea8f594542a2ea11ec80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\f60c627a9681ea8f594542a2ea11ec80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\7bea785e175771812ee1f77364f1d8b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\7bea785e175771812ee1f77364f1d8b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\ea1bca5a4fa0c9ae06fa14f3c57393d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\ea1bca5a4fa0c9ae06fa14f3c57393d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\d76676f6315985b38433a3c13aa03735\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\d76676f6315985b38433a3c13aa03735\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\c9460afd9cc469a4ad3d105b6319d166\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\c9460afd9cc469a4ad3d105b6319d166\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\ecd80a4184b09dd79bf8790ff4c12cda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\ecd80a4184b09dd79bf8790ff4c12cda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\7ac359726b172a5223551cb5832ddeab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\7ac359726b172a5223551cb5832ddeab\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\df95bbc579c0da55fef9ff153843bb40\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\df95bbc579c0da55fef9ff153843bb40\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\ee6856f8a9348d77ee6796c9ef1cab53\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\ee6856f8a9348d77ee6796c9ef1cab53\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\eb72fdfa68e1f0c4e1d18307cbcd9b43\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jsrt0\.gradle\caches\transforms-2\files-2.1\eb72fdfa68e1f0c4e1d18307cbcd9b43\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jsrt0\Desktop\School\Summer 2019\CS 2340\190502SpaceTraders\app\src\main\AndroidManifest.xml
