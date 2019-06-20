@@ -1,3 +1,5 @@
+package com.example.spacetraders190502.Model;
+
 import java.util.ArrayList;
 import java.util.List;
 import android.app.Activity;
