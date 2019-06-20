@@ -1,3 +1,5 @@
+package com.example.spacetraders190502.View;
+
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.support.v7.app.AppCompatActivity;
