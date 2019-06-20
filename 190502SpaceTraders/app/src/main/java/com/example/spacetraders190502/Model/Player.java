@@ -1,3 +1,5 @@
+package com.example.spacetraders190502.Model;
+
 import android.util.Log;
 
 public class Player {
