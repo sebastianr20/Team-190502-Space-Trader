@@ -1,3 +1,5 @@
+package com.example.spacetraders190502.Model;
+
 public enum Spaceship {
     FLEA("Flea"),
     GNAT("Gnat"),
